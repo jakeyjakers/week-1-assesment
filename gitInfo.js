@@ -78,7 +78,7 @@ const gitAddCode = "git add ."
 
 const gitCommitDefinition = "Captures a snapshot of the project's currently staged changes, or in other terms creates a 'save point.'"
 
-const gitCommitCode = "git commit -m 'my commit'"
+const gitCommitCode = "git commit -m 'whatever commit'"
 
 //CODE HERE
 
